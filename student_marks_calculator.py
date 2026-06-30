@@ -29,3 +29,17 @@ print("Marks:",marks)
 print("Total",total)
 print("Average:",average)
 print("Grade:",grade)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
